@@ -1,0 +1,23 @@
+body {
+  padding: 0;
+  margin: 0;
+}
+
+#map,
+body,
+html {
+  height: 100%;
+}
+
+/* Adjustment for legend's color squre */
+.square{
+  width:15px;
+  height:15px;
+  float:left;
+}
+
+/* Adjustment for legend */
+.legend{
+  padding: 10px;
+  background-color: #ffffff;
+}
